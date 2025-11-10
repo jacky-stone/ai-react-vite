@@ -1,5 +1,3 @@
 name = "ai-react-vite"
 compatibility_date = "2025-11-10"
-
-[site]
-bucket = "./dist"
+pages_build_output_dir = "./dist"
